@@ -1,0 +1,2 @@
+# Research-paper-on---Hand-Gestures-identification---A-Novel-Appraoch
+This paper presents an innovative method for real-time hand gesture recognition using advanced machine vision and AI techniques. The approach addresses challenges like pose variability and background noise, achieving high accuracy and responsiveness. Potential applications include sign language translation and human-computer interaction.
